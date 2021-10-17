@@ -1,9 +1,5 @@
 _images/
-camera/
 images/
-laptop/
-smartphone/
-tv/
 # Logs
 logs
 *.log
